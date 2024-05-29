@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "openai": "^4.38.3"
+  },
+  "scripts": {
+    "build": "browserify ./js/chatbot.mjs -o ./js/bundle_chatbot.js -t babelify; echo 'Build complete!'"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "babelify": "^10.0.0"
+  }
+}

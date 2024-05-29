@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>POC Madrid LLM</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>PoC Madrid FIWARE + LLM</h1>
+
+<div class="container">
+  <!-- HTML element to hold the map -->
+  <div id="map"></div>
+
+  <div class="chatBot">
+    <header>
+      <h2>FIWARE Chatbot</h2>
+    </header>
+    <ul class="chatbox">
+      <li class="chat-incoming chat">
+        <p>Hey! How can I assist you today?</p>
+      </li>
+    </ul>
+    <div class="chat-input">
+      <textarea rows="0" cols="50" placeholder="Enter a message..."></textarea>
+      <button id="sendBTN">Send</button>
+    </div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="js/map.js"></script>
+<script src="js/bundle_chatbot.js"></script>
+</body>
+</html>
