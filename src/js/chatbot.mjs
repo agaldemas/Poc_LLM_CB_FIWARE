@@ -1,5 +1,6 @@
 import { createThreadAssistant, sendMessage } from './thread_openai.mjs';
 
+(function() {
 const chatInput = 
 	document.querySelector('.chat-input textarea');
 const sendChatBtn = 
@@ -11,9 +12,8 @@ let thread;
 let assistant;
 
 (async () => {
-	console.log('Creating thread...⏳');
+	//console.log('Creating thread...⏳');
 	[thread, assistant] = await createThreadAssistant();
-	console.log('Thread created! ✅');
   })();
 
 
@@ -31,13 +31,11 @@ const createChatLi = (message, className) => {
 const generateResponse = async (incomingChatLi) => {
 	const messageElement = incomingChatLi
 	.querySelector("p");
-
     
-	console.log(`Sending message...⏳ ${userMessage}`);
 	try {
+		console.log(`Sending message...⏳ ${userMessage}`);
 		const response = await sendMessage(thread.id, assistant.id, userMessage);
 		console.log('Message sent! ✅');
-		console.log('Response:', response);
 		messageElement.textContent = response;
 	} catch(error) {
 		console.log('error:', error)
@@ -47,8 +45,10 @@ const generateResponse = async (incomingChatLi) => {
 
 }
 
-const handleChat = () => {
+const handleChat = async () => {
 	userMessage = chatInput.value.trim();
+	chatInput.value = "";
+	console.log('User message:', userMessage);
 	if (!userMessage) {
 		return;
 	}
@@ -57,7 +57,7 @@ const handleChat = () => {
 	chatbox
 	.scrollTo(0, chatbox.scrollHeight);
 
-	setTimeout(() => {
+	setTimeout(async () => {
 		const incomingChatLi = createChatLi("Thinking...", "chat-incoming")
 		chatbox.appendChild(incomingChatLi);
 		chatbox.scrollTo(0, chatbox.scrollHeight);
@@ -66,3 +66,4 @@ const handleChat = () => {
 }
 
 sendChatBtn.addEventListener("click", handleChat);
+})();
