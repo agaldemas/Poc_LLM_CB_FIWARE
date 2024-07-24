@@ -45,6 +45,14 @@ const generateResponse = async (incomingChatLi) => {
 
 }
 
+// Add event listener to chat input to handle Enter as send
+ttext.addEventListener("keydown", (event) => {
+	if (event.key === "Enter") {
+		event.preventDefault();
+		handleChat();
+	}
+});
+
 const handleChat = async () => {
 	userMessage = chatInput.value.trim();
 	chatInput.value = "";

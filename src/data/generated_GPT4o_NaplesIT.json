@@ -1,0 +1,1941 @@
+[
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:000",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Castel dell'Ovo"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.258331,
+                    40.826422
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "2000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Castel dell'Ovo es el castillo más antiguo de Nápoles, ubicado en la pintoresca bahía de Nápoles, conocido por sus impresionantes vistas y su importancia histórica."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-19:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Viewpoint/Scenic", "Architecture"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:001",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo Archeologico Nazionale"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.248458,
+                    40.853293
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "15€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo Archeologico Nazionale de Nápoles alberga una de las colecciones más importantes de artefactos grecorromanos, incluidos los tesoros de Pompeya y Herculano."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-19:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Museum", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:002",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Palazzo Reale"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.253259,
+                    40.835653
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "10€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "700"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Palazzo Reale de Nápoles es un magnífico palacio del siglo XVII que sirvió como residencia para los virreyes españoles y la realeza borbónica."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-20:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Architecture"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:003",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Spaccanapoli"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.255860,
+                    40.850774
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "2000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Spaccanapoli es una larga y estrecha calle que corta el centro histórico de Nápoles, llena de tiendas, iglesias, monumentos históricos y vibrante vida local."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "24h"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Shopping"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:004",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Teatro di San Carlo"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.251390,
+                    40.836021
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "Variable"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Teatro di San Carlo es el teatro de ópera más antiguo de Europa en funcionamiento continuo, conocido por su arquitectura impresionante y sus producciones de ópera y ballet."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-22:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Theater/Performance", "Cultural", "Architecture"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:005",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Catacombe di San Gennaro"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.251251,
+                    40.862430
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "9€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Las Catacombe di San Gennaro son antiguos cementerios subterráneos en Nápoles, conocidos por sus frescos y esculturas paleocristianas."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-17:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Religious Site"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:006",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Piazza del Plebiscito"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.252210,
+                    40.835662
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "5000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Piazza del Plebiscito es una de las plazas más grandes de Nápoles, rodeada de edificios históricos y un lugar popular para eventos y conciertos."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "24h"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Government/Civic"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:007",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo di Capodimonte"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.250748,
+                    40.867530
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "12€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo di Capodimonte alberga una vasta colección de arte que incluye obras de Caravaggio, Rafael y Tiziano, ubicado en el antiguo palacio real de caza."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "08:30-19:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Museum", "Art", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:008",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Napoli Sotterranea"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.257300,
+                    40.850914
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "10€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "300"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Napoli Sotterranea es un fascinante complejo subterráneo de túneles y cavidades que ofrecen una visión única de la historia antigua y moderna de Nápoles."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-18:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Educational"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:009",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Castel Nuovo"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.253440,
+                    40.838430
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "6€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "800"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Castel Nuovo, también conocido como Maschio Angioino, es un impresionante castillo medieval que alberga museos y exposiciones de arte."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-18:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Architecture"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:010",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Via San Gregorio Armeno"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.257460,
+                    40.852270
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Via San Gregorio Armeno es una famosa calle en Nápoles conocida por sus talleres de presepi, donde se fabrican figuras y escenas de nacimiento navideñas."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-20:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Shopping", "Cultural", "Art"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:011",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Certosa e Museo di San Martino"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.239589,
+                    40.847479
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "8€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "600"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Certosa e Museo di San Martino es un antiguo monasterio que ofrece una impresionante vista de Nápoles y alberga un museo con una vasta colección de arte y artefactos históricos."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "08:30-19:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Museum", "Religious Site", "Viewpoint/Scenic"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:012",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Basilica di Santa Chiara"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.252803,
+                    40.847021
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "5€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "800"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Basilica di Santa Chiara es una iglesia histórica en Nápoles, conocida por su claustro decorado con azulejos majólica y su museo arqueológico."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-17:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:013",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Galleria Umberto I"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.247311,
+                    40.837050
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Galleria Umberto I es una elegante galería comercial del siglo XIX, famosa por su arquitectura de hierro y vidrio, y su variedad de tiendas y cafés."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-22:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Shopping", "Architecture", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:014",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo Madre"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.257778,
+                    40.852056
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "7€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "400"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo Madre es un museo de arte contemporáneo en Nápoles, que presenta una colección de obras de artistas italianos e internacionales."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-19:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Museum", "Art", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:015",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Cappella Sansevero"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.254063,
+                    40.848808
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "8€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "300"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Cappella Sansevero es una capilla barroca en Nápoles, famosa por sus impresionantes esculturas, incluido el 'Cristo Velato'."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-18:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Art"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:016",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Basilica Reale Pontificia San Francesco di Paola"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.251798,
+                    40.835298
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Basilica Reale Pontificia San Francesco di Paola es una iglesia neoclásica en la Piazza del Plebiscito, conocida por su impresionante cúpula y su arquitectura monumental."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "08:30-13:00, 16:00-19:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:017",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo Nazionale Ferroviario di Pietrarsa"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.313558,
+                    40.820961
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "7€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "400"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo Nazionale Ferroviario di Pietrarsa es un museo ferroviario en Nápoles que exhibe una colección de locomotoras y vagones históricos."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-18:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Museum", "Cultural", "Science/Technology"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:018",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Fontanelle Cemetery"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.244862,
+                    40.859972
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "200"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Fontanelle Cemetery es un antiguo cementerio en una cueva en Nápoles, conocido por sus osarios y su papel en el culto de las ánimas."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-17:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Religious Site"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:019",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Lungomare Caracciolo"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.246693,
+                    40.827552
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "5000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Lungomare Caracciolo es un hermoso paseo marítimo en Nápoles, ideal para caminatas, correr y disfrutar de vistas panorámicas del Golfo de Nápoles."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "24h"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Nature", "Viewpoint/Scenic", "Entertainment"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:020",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Chiesa del Gesù Nuovo"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.251457,
+                    40.847556
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Chiesa del Gesù Nuovo es una iglesia barroca en el centro de Nápoles, conocida por su fachada de piedra en punta de diamante y su opulento interior."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "07:00-13:00, 16:00-19:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:021",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Palazzo dello Spagnolo"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.247156,
+                    40.857670
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Palazzo dello Spagnolo es un palacio histórico en Nápoles, famoso por su impresionante escalera de doble hélice y su arquitectura barroca."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-17:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Architecture", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:022",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Parco Virgiliano"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.186581,
+                    40.796944
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "3000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Parco Virgiliano es un parque panorámico en Posillipo, Nápoles, conocido por sus espectaculares vistas del Golfo de Nápoles y las islas circundantes."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "07:00-22:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Nature", "Viewpoint/Scenic", "Park/Garden"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:023",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Complesso Monumentale di Santa Maria la Nova"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.256243,
+                    40.845312
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "6€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "600"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Complesso Monumentale di Santa Maria la Nova es un conjunto de edificios religiosos y claustros en Nápoles, que alberga una iglesia gótica y un museo."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-17:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:024",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Chiesa di San Domenico Maggiore"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.255840,
+                    40.847500
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Chiesa di San Domenico Maggiore es una iglesia gótica en el corazón de Nápoles, conocida por su impresionante arquitectura y su historia rica."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-13:00, 16:00-19:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:025",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo Nazionale della Ceramica Duca di Martina"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.234569,
+                    40.833472
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "4€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "200"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo Nazionale della Ceramica Duca di Martina alberga una de las colecciones de cerámica más importantes de Italia, ubicada en la Villa Floridiana en Nápoles."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "08:30-19:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Museum", "Art", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:026",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Basilica dell'Incoronata Madre del Buon Consiglio"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.226868,
+                    40.828079
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Basilica dell'Incoronata Madre del Buon Consiglio es una iglesia monumental en Nápoles, conocida por su arquitectura neoclásica y sus impresionantes frescos."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "07:00-13:00, 16:00-19:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:027",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Villa Comunale"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.241844,
+                    40.830154
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "2000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Villa Comunale es un extenso parque en el paseo marítimo de Nápoles, perfecto para paseos relajantes, picnics y actividades recreativas."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "07:00-22:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Park/Garden", "Nature", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:028",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo e Real Bosco di Capodimonte"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.250748,
+                    40.867530
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "12€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo e Real Bosco di Capodimonte alberga una vasta colección de arte y está rodeado por un hermoso bosque, ideal para paseos y actividades al aire libre."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "08:30-19:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Museum", "Nature", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:029",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Parco Archeologico Pausilypon"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.179635,
+                    40.790291
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "8€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "300"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Parco Archeologico Pausilypon ofrece una experiencia única con ruinas romanas y vistas impresionantes del mar y las islas circundantes."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-18:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Nature", "Viewpoint/Scenic"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:030",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Duomo di Napoli"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.259580,
+                    40.852028
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Duomo di Napoli, también conocido como la Catedral de Nápoles, es una iglesia gótica famosa por su tesoro y la reliquia de la sangre de San Gennaro."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "08:00-19:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:031",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Pio Monte della Misericordia"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.261058,
+                    40.853317
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "7€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "200"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Pio Monte della Misericordia es una iglesia y galería de arte en Nápoles, famosa por albergar la pintura 'Las Siete Obras de Misericordia' de Caravaggio."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-18:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Art", "Religious Site", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:032",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Complesso Monumentale di Santa Chiara"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.251542,
+                    40.847478
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "6€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Complesso Monumentale di Santa Chiara incluye una iglesia gótica, un monasterio y un museo arqueológico, con un claustro decorado con azulejos majólica."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:30-17:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:033",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Palazzo Reale di Napoli"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.253259,
+                    40.835653
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "6€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Palazzo Reale di Napoli es un majestuoso palacio histórico que ofrece visitas guiadas a sus opulentas salas y jardines."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-20:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Architecture", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:034",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Piazza Bellini"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.253981,
+                    40.850308
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Piazza Bellini es una animada plaza en el centro de Nápoles, rodeada de bares, cafeterías y ruinas arqueológicas."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "24h"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Cultural", "Historical Landmark", "Nightlife"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:035",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Castel Sant'Elmo"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.240912,
+                    40.847178
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "5€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Castel Sant'Elmo es una fortaleza medieval en lo alto de una colina en Nápoles, conocida por sus vistas panorámicas y su historia militar."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "08:30-19:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Viewpoint/Scenic", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:036",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Palazzo Zevallos Stigliano"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.247564,
+                    40.837398
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "5€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "200"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Palazzo Zevallos Stigliano es una galería de arte en Nápoles que alberga una impresionante colección de pinturas y esculturas, incluidas obras de Caravaggio."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-18:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Art", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:037",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Piazza San Domenico Maggiore"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.256540,
+                    40.848364
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "1000"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Piazza San Domenico Maggiore es una plaza histórica en Nápoles, conocida por su obelisco barroco y su animada vida callejera."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "24h"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Nightlife"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:038",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Basilica di San Lorenzo Maggiore"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.257411,
+                    40.851228
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "9€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "500"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Basilica di San Lorenzo Maggiore es una iglesia gótica en Nápoles, conocida por su cripta arqueológica y sus frescos medievales."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-17:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:039",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Cimitero delle Fontanelle"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.244722,
+                    40.860277
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "200"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Cimitero delle Fontanelle es un cementerio histórico en una cueva en Nápoles, famoso por sus osarios y su importancia cultural en la tradición napolitana."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-17:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Religious Site"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:040",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Palazzo delle Arti Napoli (PAN)"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.238602,
+                    40.834626
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "6€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "300"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Palazzo delle Arti Napoli (PAN) es un centro cultural y museo de arte contemporáneo en Nápoles, con una variedad de exposiciones y eventos culturales."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:30-19:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Art", "Cultural", "Event Space"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:041",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo del Tesoro di San Gennaro"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.260028,
+                    40.852217
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "10€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "300"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo del Tesoro di San Gennaro alberga una impresionante colección de joyas, reliquias y objetos de arte relacionados con San Gennaro, el santo patrón de Nápoles."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-17:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Museum", "Religious Site", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:042",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Castel Capuano"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.267833,
+                    40.853611
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "6€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "800"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Castel Capuano es un antiguo castillo y palacio de justicia en Nápoles, que data del siglo XII y ofrece visitas guiadas a sus salas históricas."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-18:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Architecture"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:043",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Teatro Bellini"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.253142,
+                    40.850458
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "Variable"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "800"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Teatro Bellini es un histórico teatro de ópera en Nápoles, conocido por su arquitectura y su programación de ópera, teatro y danza."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "10:00-22:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Theater/Performance", "Cultural", "Entertainment"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:044",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Certosa di San Martino"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.241478,
+                    40.847200
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "8€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "600"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Certosa di San Martino es un antiguo monasterio en una colina en Nápoles, que ofrece vistas panorámicas de la ciudad y alberga un museo de arte y artefactos históricos."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "08:30-19:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Museum", "Viewpoint/Scenic", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:045",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Basilica di San Paolo Maggiore"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.256939,
+                    40.851006
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "800"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Basilica di San Paolo Maggiore es una iglesia barroca en Nápoles, conocida por sus frescos y su impresionante arquitectura."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-13:00, 16:00-19:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:046",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Chiesa di San Gregorio Armeno"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.256897,
+                    40.852274
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "600"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Chiesa di San Gregorio Armeno es una iglesia barroca en Nápoles, conocida por su convento y su proximidad a la famosa calle de los talleres de presepi."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-13:00, 16:00-19:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:047",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Palazzo Mannajuolo"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.243574,
+                    40.835292
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "300"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Palazzo Mannajuolo es un edificio modernista en Nápoles, conocido por su espectacular escalera de caracol y su innovadora arquitectura."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-18:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Architecture", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:048",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Palazzo Donn'Anna"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.206763,
+                    40.813382
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "200"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Palazzo Donn'Anna es un majestuoso palacio inacabado del siglo XVII en el distrito de Posillipo, con vistas impresionantes del Golfo de Nápoles."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-17:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Viewpoint/Scenic", "Cultural"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:049",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Chiesa dei Girolamini"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.257594,
+                    40.853200
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "0€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "800"
+        },
+        "description": {
+            "type": "Property",
+            "value": "La Chiesa dei Girolamini es una iglesia barroca en Nápoles, conocida por su rica decoración interior y su importante biblioteca."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-13:00, 16:00-19:00"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Religious Site", "Cultural", "Historical Landmark"]
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:PoI:IT:NA:050",
+        "type": "PoI",
+        "title": {
+            "type": "Property",
+            "value": "Museo Cappella Sansevero"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    14.254063,
+                    40.848808
+                ]
+            }
+        },
+        "price": {
+            "type": "Property",
+            "value": "8€"
+        },
+        "occupancy": {
+            "type": "Property",
+            "value": "300"
+        },
+        "description": {
+            "type": "Property",
+            "value": "El Museo Cappella Sansevero es una capilla barroca en Nápoles, famosa por sus impresionantes esculturas, incluido el 'Cristo Velato'."
+        },
+        "openingHours": {
+            "type": "Property",
+            "value": "09:00-18:30"
+        },
+        "tags": {
+            "type": "Property",
+            "value": ["Historical Landmark", "Cultural", "Art"]
+        }
+    }
+]
+    

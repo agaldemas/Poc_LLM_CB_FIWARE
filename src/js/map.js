@@ -11,9 +11,9 @@ L.tileLayer('http://localhost:8080/styles/basic-preview/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 
-window.chatApp.getPoIs = async function(coord=[]) {
+window.chatApp.getPoIs = async function(coord=[], limit=10) {
   var query="";
-  var url = 'http://localhost:1027/http://fiware-orion:1026/ngsi-ld/v1/entities?type=PoI';
+  var url = 'http://localhost:1027/http://fiware-orion:1026/ngsi-ld/v1/entities?type=PoI&limit=' + limit;
 
   if(coord) {
     coord = await getZoomCoordinates();
@@ -33,7 +33,7 @@ window.chatApp.getPoIs = async function(coord=[]) {
   const coordinatesString = JSON.stringify(coordinates);
   query = `&georel=within&geometry=Polygon&coordinates=${encodeURIComponent(coordinatesString)}`;
   url = url + query;
-
+  console.log('url:', url);
   try {
     const response =
         await fetch(
@@ -41,7 +41,7 @@ window.chatApp.getPoIs = async function(coord=[]) {
               {
                 method: 'GET',
                 headers: {
-                    'origin': '*'
+                  'origin': '*'
                 }
               })
     if (!response.ok) {
@@ -57,7 +57,6 @@ window.chatApp.getPoIs = async function(coord=[]) {
 
 window.chatApp.updateMap = async function () {
   var coord = await getZoomCoordinates() || [];
-  //console.log('--coord:', coord);
   window.chatApp.NGSI_entities = await window.chatApp.getPoIs(coord);
   window.chatApp.NGSI_entities.forEach(function(entity) {
     var location = entity.location.value.coordinates;
@@ -65,6 +64,11 @@ window.chatApp.updateMap = async function () {
     var image = entity.image;
     console.log('title:', title);
 
+    // Add a marker to the map in the location of the entity
+    // this is reversed beceause the coordinates are in the format [longitude, latitude]
+    // and Leaflet expects [latitude, longitude]
+    // See: https://datatracker.ietf.org/doc/html/rfc7946
+    var current_marker = L.marker([location[1], location[0]]);
     if(image) {
       var customIcon = L.icon({
         iconUrl: `./img/${image.value}`,
@@ -72,18 +76,10 @@ window.chatApp.updateMap = async function () {
         popupAnchor: [0, -25],
         className: 'custom-icon'
       });
-  
-      // Add a marker to the map in the location of the entity
-      // this is reversed beceause the coordinates are in the format [longitude, latitude]
-      // and Leaflet expects [latitude, longitude]
-      // See: https://datatracker.ietf.org/doc/html/rfc7946
-      L.marker([location[1], location[0]], { icon: customIcon }).addTo(map)
-        .bindPopup(title + location);
-
-    } else {
-      L.marker([location[1], location[0]]).addTo(map)
-      .bindPopup(title);
+      currenty_marker.setIcon(customIcon);
     }
+    current_marker.addTo(map)
+    .bindPopup(title);
   });
 }
 
@@ -99,12 +95,6 @@ async function getZoomCoordinates () {
   var coordinates = [southWest.lng, southWest.lat, southEast.lng, southEast.lat, northEast.lng, northEast.lat, northWest.lng, northWest.lat];
   return coordinates;
 }
-
-// Log the initial corner coordinates
-//getZoomCoordinates();
-
-// log the corner coordinates whenever the map is moved
-
 })();
 
 window.chatApp.updateMap();
