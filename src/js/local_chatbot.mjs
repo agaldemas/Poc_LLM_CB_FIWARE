@@ -42,7 +42,7 @@ const createChatDiv = (message, className) => {
 
 
 const generateResponse = async (incomingChatLi) => {
-	const messageElement = incomingChatLi.querySelector("div");
+	const messageElement = incomingChatLi.querySelector("p");
 
     
 	console.log(`Sending message...⏳ ${userMessage}`);
@@ -50,9 +50,10 @@ const generateResponse = async (incomingChatLi) => {
 		const response = await sendMessage(openai, userMessage);
 		console.log('Message sent! ✅');
 		console.log('Response: ', response);
-		
-		messageElement = converter.makeHtml(response.content);
 		console.log('response.content: ', response.content);
+		
+		messageElement.textContent = converter.makeHtml(response.content);
+		
 	} catch(error) {
 		console.log('☹ ⚠ error:', error);
 	}
@@ -71,7 +72,7 @@ const handleChat = () => {
 	.scrollTo(0, chatbox.scrollHeight);
 
 	setTimeout(() => {
-		const incomingChatLi = createChatDiv("Thinking...", "chat-incoming")
+		const incomingChatLi = createChatLi("Thinking...", "chat-incoming")
 		chatbox.appendChild(incomingChatLi);
 		chatbox.scrollTo(0, chatbox.scrollHeight);
 		generateResponse(incomingChatLi);
