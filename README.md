@@ -23,4 +23,8 @@ npm run build
 
 Open index.html and start playing...
 
+sample questions:
+- what to visit regarding sport in Madrid ?
+
+
 ![Screenshot](./img/screen1.jpeg)
