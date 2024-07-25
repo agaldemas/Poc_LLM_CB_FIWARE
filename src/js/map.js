@@ -1,6 +1,7 @@
 // Global object to hold shared state and functions
 window.chatApp = window.chatApp || {};
 var map = L.map('map').setView([40.4168, -3.7038], 13);
+window.chatApp.mapMarkers = [];
 
 (function() {
 var NGSI_entities = []
@@ -58,6 +59,17 @@ window.chatApp.getPoIs = async function(coord=[], limit=10) {
 window.chatApp.updateMap = async function () {
   var coord = await getZoomCoordinates() || [];
   window.chatApp.NGSI_entities = await window.chatApp.getPoIs(coord);
+
+  // Remove all markers from the map
+  if (window.chatApp.mapMarkers !== undefined) {
+    console.log('removing markers, size: ' + window.chatApp.mapMarkers.length);
+    for (var i = 0; i < window.chatApp.mapMarkers.length; i++) {
+      console.log('removing marker: ' + window.chatApp.mapMarkers[i]);
+      map.removeLayer(window.chatApp.mapMarkers[i]);
+    }
+  }
+  window.chatApp.mapMarkers = [];
+
   window.chatApp.NGSI_entities.forEach(function(entity) {
     var location = entity.location.value.coordinates;
     var title = entity.title.value;
@@ -78,8 +90,8 @@ window.chatApp.updateMap = async function () {
       });
       currenty_marker.setIcon(customIcon);
     }
-    current_marker.addTo(map)
-    .bindPopup(title);
+    current_marker.addTo(map).bindPopup(title);
+    window.chatApp.mapMarkers.push(current_marker);
   });
 }
 
