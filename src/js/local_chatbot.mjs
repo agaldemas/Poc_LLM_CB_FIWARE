@@ -30,12 +30,12 @@ const createChatLi = (message, className) => {
 	return chatLi;
 }
 
-const createChatDiv = (message, className) => {
+const createChatDiv = (html, className) => {
 	const chatDiv = document.createElement("div");
 	chatDiv.classList.add("chat", className);
 	chatDiv.id ="chat-div";
-	let chatContent = message;
-	chatDiv = chatContent;
+	chatDiv.style.padding = "4px 6px"; // Add padding to the style attribute of the div element
+	chatDiv.innerHTML = html;
 	return chatDiv;
 }
 
@@ -51,9 +51,11 @@ const generateResponse = async (incomingChatLi) => {
 		console.log('Message sent! ✅');
 		console.log('Response: ', response);
 		console.log('response.content: ', response.content);
-		
-		messageElement.textContent = converter.makeHtml(response.content);
-		
+
+		messageElement.textContent = 'Model Answer:'
+		let html = converter.makeHtml(response.content);
+		const div = createChatDiv(html,'chat-incoming');
+		chatbox.appendChild(div);
 	} catch(error) {
 		console.log('☹ ⚠ error:', error);
 	}

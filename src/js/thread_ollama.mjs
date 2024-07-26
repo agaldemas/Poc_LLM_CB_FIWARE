@@ -15,12 +15,6 @@ const instructions = `You are an assistant for tourists in Madrid. You only can 
 
 
 export async function createThreadAssistant() {
-
-  
-  //this.model = 'phi3'; // Set your local model here
-  //await openai.models.retrieve(model); // Check if the model exists
-  
-
   return openai;
 }
 
