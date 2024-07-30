@@ -1,10 +1,12 @@
 {
   "dependencies": {
     "browserify": "^17.0.0",
+    "ollama-node": "^0.1.28",
     "openai": "^4.38.3"
   },
   "scripts": {
-    "build": "browserify ./js/chatbot.mjs -o ./js/bundle_chatbot.js -t babelify; echo 'Build complete!'"
+    "build": "browserify ./js/chatbot.mjs -o ./js/bundle_chatbot.js -t babelify; echo 'Build complete!'",
+    "build-local": "browserify ./js/local_chatbot.mjs -o ./js/bundle_chatbot.js -t babelify; echo 'Build complete!'"
   },
   "devDependencies": {
     "@babel/core": "^7.24.4",
