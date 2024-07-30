@@ -14,7 +14,11 @@ L.tileLayer('http://localhost:8080/styles/basic-preview/{z}/{x}/{y}.png', {
 
 window.chatApp.getPoIs = async function(coord=[], limit=10) {
   var query="";
-  var url = 'http://localhost:1027/http://fiware-orion:1026/ngsi-ld/v1/entities?type=PoI&limit=' + limit;
+
+  // NGSILD doesn't support ordering. See:
+  // https://stackoverflow.com/questions/75106624/ordering-results-by-field-using-orion-ngsi-ld
+  var orderBy = "relevance";
+  var url = 'http://localhost:1027/http://fiware-orion:1026/ngsi-ld/v1/entities?type=PoI&limit=' + limit + '&orderBy=' + orderBy;
 
   if(coord) {
     coord = await getZoomCoordinates();
@@ -88,7 +92,7 @@ window.chatApp.updateMap = async function () {
         popupAnchor: [0, -25],
         className: 'custom-icon'
       });
-      currenty_marker.setIcon(customIcon);
+      current_marker.setIcon(customIcon);
     }
     current_marker.addTo(map).bindPopup(title);
     window.chatApp.mapMarkers.push(current_marker);
