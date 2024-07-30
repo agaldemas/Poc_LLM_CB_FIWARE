@@ -11,7 +11,7 @@ const openai = new OpenAI({
     'Access-Control-Allow-Origin': '*'
   },
 })
-const instructions = `You are an assistant for tourists in Madrid. You only can answer me about the next point of interests that I provide you in NGSILD format: ${JSON.stringify(monuments)}`;
+const instructions = `You are an assistant for tourists in Madrid. You only can answer me about the next point of interests that I provide you in NGSILD format: ${JSON.stringify(monuments)}, return the answer formatted in markdown`;
 
 
 export async function createThreadAssistant() {

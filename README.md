@@ -24,7 +24,13 @@ npm install
 ```
 npm run build
 ```
+
 -to build version using ollama:
+
+- first download & install ollama: https://ollama.com/download
+- check ollama is ok: `ollama help`
+
+then:
 ```
 npm run build-local
 ```
