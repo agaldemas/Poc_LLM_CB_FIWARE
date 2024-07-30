@@ -1,0 +1,5102 @@
+[
+  {
+    "id": "urn:ngsi-ld:PoI:000",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Jardines de la Rosaleda"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.719742,
+          40.41966
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Los Jardines de la Rosaleda, también conocidos como la Rosaleda del Parque del Oeste, son un hermoso jardín de rosas en Madrid, ideal para pasear y disfrutar de la gran variedad de flores."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:001",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza de la Cebada"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.709256,
+          40.411882
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza de la Cebada es una plaza vibrante en el barrio de La Latina, conocida por su mercado y su ambiente animado, especialmente durante el fin de semana."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:002",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque del Cerro del Tío Pío"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.662148,
+          40.39121
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque del Cerro del Tío Pío, también conocido como el Parque de las Siete Tetas, ofrece unas vistas espectaculares de Madrid desde sus colinas, especialmente al atardecer."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:003",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque del Retiro"
+    },
+    "image": {
+      "type": "Property",
+      "value": "pdretiro.jpeg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 1
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.6834,
+          40.41526
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque del Retiro es uno de los lugares más emblemáticos de Madrid. Conocido por sus amplios jardines, estanques y monumentos, es un lugar ideal para pasear, hacer deporte o simplemente relajarse. Entre sus principales atracciones se encuentran el Palacio de Cristal, el estanque grande y la estatua del Ángel Caído."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:004",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo del Prado"
+    },
+    "image": {
+      "type": "Property",
+      "value": "mdprado.jpeg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 1
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.692127,
+          40.41378
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "15€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo del Prado es el museo más importante de España y uno de los más prestigiosos del mundo. Alberga una extensa colección de obras de arte europeas que datan del siglo XII al siglo XIX. Destacan las pinturas de Velázquez, Goya, El Bosco, Tiziano y Rubens."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:005",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Palacio Real de Madrid"
+    },
+    "image": {
+      "type": "Property",
+      "value": "palacioreal.jpeg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 1
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.714312,
+          40.41798
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "12€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Palacio Real de Madrid, también conocido como el Palacio de Oriente, es la residencia oficial de la Familia Real Española, aunque solo se utiliza para ceremonias de Estado. Con más de 3.000 habitaciones, es uno de los palacios más grandes de Europa y destaca por su impresionante arquitectura y sus lujosos interiores."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:006",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Templo de Debod"
+    },
+    "image": {
+      "type": "Property",
+      "value": "debod.jpg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.720457,
+          40.424033
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Templo de Debod es un antiguo templo egipcio que fue desmontado y reconstruido en Madrid. Es uno de los pocos edificios de origen egipcio que se pueden ver fuera de Egipto y ofrece unas vistas impresionantes de la ciudad desde el parque donde se encuentra."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:007",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza Mayor"
+    },
+    "image": {
+      "type": "Property",
+      "value": "Plaza_Mayor_de_Madrid_06.jpg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 1
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.707398,
+          40.415364
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza Mayor es una de las plazas más conocidas y visitadas de Madrid. Rodeada de edificios históricos y con una estatua ecuestre de Felipe III en el centro, es un punto de encuentro popular tanto para turistas como para locales."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:008",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Gran Vía"
+    },
+    "image": {
+      "type": "Property",
+      "value": "Gran_Via_1.jpg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.70379,
+          40.42019
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Gran Vía es una de las principales calles comerciales de Madrid. Conocida por sus impresionantes edificios, teatros y tiendas, es un lugar perfecto para disfrutar de un paseo, ir de compras o ver un espectáculo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:009",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Reina Sofía"
+    },
+    "image": {
+      "type": "Property",
+      "value": "museo_reina_sofia.jpg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 1
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.694159,
+          40.408665
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "10€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Reina Sofía es el principal museo de arte contemporáneo de Madrid. Alberga una impresionante colección de arte del siglo XX, incluyendo obras maestras de artistas como Pablo Picasso, Salvador Dalí y Joan Miró."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:010",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Puerta del Sol"
+    },
+    "image": {
+      "type": "Property",
+      "value": "sol.jpg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 1
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.703834,
+          40.416947
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Puerta del Sol es una de las plazas más famosas de Madrid. Es el kilómetro cero de las carreteras radiales de España y un lugar lleno de vida y actividad. Aquí se encuentra la famosa estatua del Oso y el Madroño, símbolo de la ciudad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:011",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Catedral de la Almudena"
+    },
+    "image": {
+      "type": "Property",
+      "value": "catedral_almudena.jpeg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.714915,
+          40.415947
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Catedral de la Almudena es la iglesia principal de Madrid y una de las más impresionantes arquitectónicamente. Con su combinación de estilos neogótico y neoclásico, es un lugar de culto y un punto de referencia importante en la ciudad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:012",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Santiago Bernabéu"
+    },
+    "image": {
+      "type": "Property",
+      "value": "bernabeu.webp"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.688344,
+          40.453054
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "25€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "81000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El estadio Santiago Bernabéu es el hogar del Real Madrid, uno de los clubes de fútbol más exitosos del mundo. Con una capacidad de más de 80,000 espectadores, es un lugar imprescindible para los amantes del fútbol."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:013",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza de Cibeles"
+    },
+    "image": {
+      "type": "Property",
+      "value": "cibeles.jpeg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.693461,
+          40.419561
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza de Cibeles es una de las plazas más emblemáticas de Madrid, conocida por la impresionante Fuente de Cibeles en su centro y por ser el punto de celebración de los aficionados del Real Madrid."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:014",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Mercado de San Miguel"
+    },
+    "image": {
+      "type": "Property",
+      "value": "mercado_san_miguel.jpeg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.708662,
+          40.415363
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Mercado de San Miguel es un mercado gastronómico situado en el corazón de Madrid. Es el lugar perfecto para degustar una variedad de tapas y platos españoles."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:015",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Thyssen-Bornemisza"
+    },
+    "image": {
+      "type": "Property",
+      "value": "Museo_Thyssen-Bornemisza.jpeg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 1
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.69425,
+          40.416873
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "13€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Thyssen-Bornemisza alberga una de las colecciones privadas de arte más importantes del mundo, con obras que van desde el Renacimiento hasta el arte moderno."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:016",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Palacio de Cibeles"
+    },
+    "image": {
+      "type": "Property",
+      "value": "Museo_Thyssen-Bornemisza.jpeg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.693908,
+          40.419553
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "2€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Palacio de Cibeles, antiguamente conocido como Palacio de Comunicaciones, es la actual sede del Ayuntamiento de Madrid y cuenta con un mirador que ofrece vistas panorámicas de la ciudad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:017",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Estadio Wanda Metropolitano"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.599305,
+          40.436193
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "68000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Estadio Wanda Metropolitano es el estadio del Atlético de Madrid y uno de los estadios más modernos de Europa."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:018",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Arqueológico Nacional"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.690198,
+          40.423801
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Arqueológico Nacional ofrece una fascinante colección de objetos que abarcan la historia de España desde la Prehistoria hasta la Edad Moderna."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:019",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Teatro Real"
+    },
+    "image": {
+      "type": "Property",
+      "value": "Teatro_Real_08.jpg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.710411,
+          40.418429
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1800"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Teatro Real es la ópera de Madrid y uno de los teatros más importantes de España, ofreciendo una programación de ópera, ballet y conciertos de gran calidad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:020",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Sorolla"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.693791,
+          40.434121
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "50"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Sorolla está dedicado a la obra del pintor impresionista Joaquín Sorolla y se encuentra en la que fuera su casa y estudio en Madrid."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:021",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Real Jardín Botánico"
+    },
+    "image": {
+      "type": "Property",
+      "value": "Real_Jardin_Botanico_07.jpg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.690597,
+          40.412631
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "4€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Real Jardín Botánico de Madrid, fundado en el siglo XVIII, alberga una gran variedad de plantas de todo el mundo y es un lugar ideal para disfrutar de la naturaleza en el centro de la ciudad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:022",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Círculo de Bellas Artes"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.697171,
+          40.418935
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "4€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Círculo de Bellas Artes es una institución cultural que organiza exposiciones, talleres y eventos culturales. Su azotea ofrece una de las mejores vistas panorámicas de Madrid."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:023",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Puerta de Alcalá"
+    },
+    "image": {
+      "type": "Property",
+      "value": "Puerta_de_Alcala_05.jpg"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.688917,
+          40.419561
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Puerta de Alcalá es uno de los monumentos más icónicos de Madrid. Situada en la Plaza de la Independencia, es un punto de referencia histórico y turístico."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:024",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "El Rastro"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.707285,
+          40.408612
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Rastro es un famoso mercado al aire libre que se celebra todos los domingos y festivos en el barrio de La Latina. Es un lugar ideal para encontrar antigüedades, ropa de segunda mano y curiosidades."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:025",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Casa de Campo"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.745192,
+          40.408734
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "2000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Casa de Campo es el mayor parque público de Madrid. Con una amplia variedad de actividades al aire libre, como senderismo, ciclismo y paseos en bote, es un lugar perfecto para disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:026",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Jardines de Sabatini"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.715262,
+          40.421064
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Los Jardines de Sabatini, situados junto al Palacio Real, son un lugar encantador para pasear y disfrutar de las vistas del palacio y la ciudad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:027",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Monasterio de las Descalzas Reales"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.707041,
+          40.418896
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "6€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "50"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Monasterio de las Descalzas Reales es un convento de clausura fundado en el siglo XVI. Alberga una impresionante colección de arte religioso y es un lugar de gran interés histórico."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:028",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Nacional de Ciencias Naturales"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.690205,
+          40.44119
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "7€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Nacional de Ciencias Naturales es un lugar fascinante para aprender sobre la historia natural, con exposiciones que incluyen dinosaurios, minerales y animales de todo el mundo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:029",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo del Romanticismo"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.698511,
+          40.424054
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo del Romanticismo ofrece una mirada al siglo XIX en España, con una colección de objetos que ilustran la vida y el arte de la época romántica."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:030",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de Historia de Madrid"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.701633,
+          40.427045
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de Historia de Madrid, ubicado en el antiguo Hospicio de San Fernando, ofrece una amplia colección que narra la historia de la ciudad desde su fundación hasta la actualidad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:031",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "CaixaForum Madrid"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.692167,
+          40.410504
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "6€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El CaixaForum Madrid es un centro cultural y de exposiciones que ofrece una variada programación de arte, música, conferencias y talleres. Su arquitectura moderna, con un jardín vertical en su fachada, es una atracción en sí misma."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:032",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de América"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.721303,
+          40.432241
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de América alberga una impresionante colección de arte y objetos de las culturas precolombinas de América. Es un lugar fascinante para aprender sobre la historia y las tradiciones del continente americano."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:033",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Nacional de Artes Decorativas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.691838,
+          40.414375
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "80"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Nacional de Artes Decorativas ofrece una rica colección de objetos decorativos, incluyendo muebles, cerámicas, textiles y más, que ilustran la evolución del diseño y la artesanía desde la Edad Media hasta la actualidad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:034",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo del Ferrocarril"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.69177,
+          40.39134
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "6€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo del Ferrocarril, ubicado en la antigua estación de Delicias, muestra la historia del ferrocarril en España con una colección de locomotoras, vagones y objetos relacionados con el mundo del tren."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:035",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Lázaro Galdiano"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.682977,
+          40.433877
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "7€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Lázaro Galdiano alberga una extensa colección de arte y objetos antiguos recopilados por el coleccionista José Lázaro Galdiano. Incluye pinturas, esculturas, joyas y más."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:036",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de Cera de Madrid"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.689311,
+          40.423706
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "18€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de Cera de Madrid presenta figuras de cera de personajes históricos, culturales y del espectáculo, ofreciendo una experiencia divertida y educativa para visitantes de todas las edades."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:037",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo del Traje"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.731108,
+          40.441624
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "80"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo del Traje ofrece una visión detallada de la historia de la moda y el vestido en España, con una amplia colección de trajes y accesorios desde el siglo XVI hasta la actualidad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:038",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Naval"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.689478,
+          40.417075
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Naval de Madrid muestra la historia de la Marina Española a través de una impresionante colección de modelos de barcos, mapas, instrumentos de navegación y arte naval."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:040",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Nacional de Antropología"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.691014,
+          40.407322
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "80"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Nacional de Antropología presenta una colección de objetos que ilustran la diversidad cultural de diferentes pueblos y sociedades de todo el mundo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:041",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Zoo Aquarium de Madrid"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.761133,
+          40.404906
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "24€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Zoo Aquarium de Madrid es uno de los zoológicos más grandes de España, con una gran variedad de animales de todo el mundo y un impresionante acuario."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:042",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Atracciones de Madrid"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.745586,
+          40.411829
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "33€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de Atracciones de Madrid ofrece una amplia variedad de atracciones y espectáculos para todas las edades, convirtiéndolo en un lugar perfecto para un día de diversión en familia."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:043",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Teleférico de Madrid"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.725879,
+          40.421978
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "6€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Teleférico de Madrid ofrece un recorrido aéreo sobre la Casa de Campo, proporcionando unas vistas espectaculares de la ciudad y sus alrededores."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:044",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo del Jamón"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.703858,
+          40.416015
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo del Jamón es un popular establecimiento de Madrid donde se pueden degustar diferentes tipos de jamón y productos ibéricos. Es un lugar ideal para los amantes de la gastronomía española."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:045",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Real Basílica de San Francisco el Grande"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.712216,
+          40.410211
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Real Basílica de San Francisco el Grande es una impresionante iglesia de estilo neoclásico que cuenta con una de las cúpulas más grandes de España y una magnífica colección de arte religioso."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:046",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Iglesia de San Antonio de los Alemanes"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.704162,
+          40.422251
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Iglesia de San Antonio de los Alemanes es una joya barroca de Madrid, conocida por su impresionante interior decorado con frescos y su arquitectura única."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:047",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Palacio de Linares"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.691702,
+          40.419313
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "10€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Palacio de Linares es una majestuosa mansión del siglo XIX situada en la Plaza de Cibeles. Actualmente alberga la Casa de América, un centro cultural que promueve las relaciones entre España y América Latina."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:048",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo del Aire"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.785083,
+          40.369309
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo del Aire, situado en Cuatro Vientos, ofrece una amplia colección de aviones históricos y objetos relacionados con la aviación, mostrando la evolución de la aeronáutica en España."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:049",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Monumento a Alfonso XII"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.684504,
+          40.41554
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Monumento a Alfonso XII es una majestuosa estructura situada en el Parque del Retiro, con una gran columnata y una estatua ecuestre del rey. Es un lugar popular para relajarse y disfrutar del paisaje."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:050",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Palacio de Cristal"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.683923,
+          40.413787
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Palacio de Cristal, situado en el Parque del Retiro, es una impresionante estructura de hierro y vidrio construida en 1887. Actualmente se utiliza para exposiciones de arte contemporáneo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:051",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Jardines del Buen Retiro"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.68211,
+          40.414425
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Los Jardines del Buen Retiro son una extensa área verde en el centro de Madrid, que ofrece jardines, fuentes, estatuas y una gran variedad de actividades recreativas."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:052",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo ABC de Dibujo e Ilustración"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.703278,
+          40.428095
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo ABC de Dibujo e Ilustración alberga una extensa colección de dibujos e ilustraciones, y ofrece exposiciones temporales de artistas contemporáneos y clásicos."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:053",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Teatro de la Zarzuela"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.697698,
+          40.417167
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1244"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Teatro de la Zarzuela es el teatro principal de Madrid dedicado a la zarzuela, un género de música teatral típicamente español. Ofrece una programación variada de zarzuela, ópera y conciertos."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:054",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Teatro Español"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.703672,
+          40.414524
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "800"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Teatro Español es uno de los teatros más antiguos de Madrid y un importante centro cultural de la ciudad. Ofrece una amplia variedad de obras de teatro y otros eventos culturales."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:055",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo del Reloj"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.711423,
+          40.424042
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "50"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo del Reloj, ubicado en el Palacio de Cibeles, alberga una impresionante colección de relojes antiguos y modernos, ofreciendo una visión fascinante de la evolución de la medición del tiempo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:056",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de los Orígenes"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.709673,
+          40.410859
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "2€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "50"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de los Orígenes, también conocido como el Museo de San Isidro, muestra la historia de Madrid desde la Prehistoria hasta el establecimiento de la ciudad en la Edad Media."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:057",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Palacio de Longoria"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.69878,
+          40.428396
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "50"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Palacio de Longoria es un impresionante edificio modernista situado en el centro de Madrid. Actualmente alberga la Sociedad General de Autores y Editores (SGAE)."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:059",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de San Isidro"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.709739,
+          40.410882
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "50"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de San Isidro narra la historia de Madrid desde sus orígenes prehistóricos hasta la actualidad, con una colección que incluye artefactos arqueológicos, documentos históricos y más."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:060",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Nacional de Ciencia y Tecnología"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.706488,
+          40.41675
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Nacional de Ciencia y Tecnología ofrece una fascinante colección de objetos que ilustran el desarrollo de la ciencia y la tecnología a lo largo de la historia."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:061",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Geominero"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.70267,
+          40.442382
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Geominero alberga una extensa colección de minerales, rocas y fósiles, proporcionando una visión fascinante de la geología y la paleontología."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:062",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de América"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.721303,
+          40.432241
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de América alberga una impresionante colección de arte y objetos de las culturas precolombinas de América. Es un lugar fascinante para aprender sobre la historia y las tradiciones del continente americano."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:063",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Estadio Vicente Calderón"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.719,
+          40.402155
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "54000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Estadio Vicente Calderón fue el hogar del Atlético de Madrid hasta 2017. Aunque ya no se usa para partidos oficiales, sigue siendo un lugar icónico para los aficionados del fútbol."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:064",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Matadero Madrid"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.699436,
+          40.391929
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Matadero Madrid es un centro cultural contemporáneo que ofrece exposiciones, conciertos, cine y más. Ubicado en un antiguo matadero, es un punto de encuentro para la creatividad y la innovación."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:065",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Planetario de Madrid"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.678337,
+          40.391807
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3,60€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "250"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Planetario de Madrid ofrece una experiencia educativa y visual sobre astronomía y ciencias del espacio, con proyecciones y exposiciones interactivas."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:066",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Real Academia de Bellas Artes de San Fernando"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.699897,
+          40.417527
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "8€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Real Academia de Bellas Artes de San Fernando alberga una colección de arte que incluye pinturas, esculturas, grabados y más, abarcando desde el siglo XVI hasta la contemporaneidad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:068",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Palacio de Fernán Núñez"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.698761,
+          40.414794
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Palacio de Fernán Núñez, un hermoso edificio del siglo XIX, es la sede de la Fundación de los Ferrocarriles Españoles y se utiliza para eventos culturales y exposiciones."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:069",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Puerta de Toledo"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.711587,
+          40.407522
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Puerta de Toledo es un monumento histórico que data del siglo XIX y es uno de los arcos de triunfo más conocidos de Madrid."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:070",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo del Ejército"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.71135,
+          40.417081
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "5€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo del Ejército, situado en el Alcázar de Toledo, ofrece una extensa colección de objetos y documentos que narran la historia militar de España."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:071",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Naval"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.689478,
+          40.417075
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Naval de Madrid muestra la historia de la Marina Española a través de una impresionante colección de modelos de barcos, mapas, instrumentos de navegación y arte naval."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:072",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de la Ciudad"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.698045,
+          40.433703
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de la Ciudad ofrece una visión detallada del desarrollo urbanístico y arquitectónico de Madrid desde sus orígenes hasta la actualidad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:073",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Casa de Lope de Vega"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.696371,
+          40.414014
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "50"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Casa de Lope de Vega es la antigua residencia del famoso escritor español Lope de Vega, ahora convertida en museo. Ofrece una visión de la vida y obra del dramaturgo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:074",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo del Vino"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.702611,
+          40.416178
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo del Vino ofrece una experiencia única para los amantes del vino, con degustaciones y exposiciones que ilustran la historia y la cultura del vino en España."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:076",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de la Real Academia de Bellas Artes de San Fernando"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.698837,
+          40.417667
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "8€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de la Real Academia de Bellas Artes de San Fernando alberga una rica colección de arte, incluyendo pinturas, esculturas y grabados de artistas españoles y europeos."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:077",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de Arte Contemporáneo"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.702476,
+          40.426261
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "4€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de Arte Contemporáneo de Madrid ofrece una variada colección de arte moderno y contemporáneo, con obras de artistas españoles e internacionales."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:078",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de Artes y Tradiciones Populares"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.731451,
+          40.439494
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "80"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de Artes y Tradiciones Populares ofrece una visión detallada de la vida cotidiana y las tradiciones populares en España, con una amplia colección de objetos y artefactos."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:079",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Nacional de Reproducciones Artísticas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.70327,
+          40.426344
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Nacional de Reproducciones Artísticas alberga una colección de reproducciones de obras maestras del arte, ofreciendo una oportunidad única para apreciar las grandes obras de la historia del arte."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:080",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Tiflológico"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.708569,
+          40.435859
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "50"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Tiflológico es un museo único gestionado por la ONCE, diseñado para ser accesible a personas con discapacidad visual, con una colección de arte táctil y maquetas accesibles."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:081",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de San Isidro"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.709739,
+          40.410882
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "50"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de San Isidro narra la historia de Madrid desde sus orígenes prehistóricos hasta la actualidad, con una colección que incluye artefactos arqueológicos, documentos históricos y más."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:082",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo Nacional de Ciencia y Tecnología"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.706488,
+          40.41675
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo Nacional de Ciencia y Tecnología ofrece una fascinante colección de objetos que ilustran el desarrollo de la ciencia y la tecnología a lo largo de la historia."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:083",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Museo de América"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.721303,
+          40.432241
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "3€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Museo de América alberga una impresionante colección de arte y objetos de las culturas precolombinas de América. Es un lugar fascinante para aprender sobre la historia y las tradiciones del continente americano."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:085",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Teatro de la Zarzuela"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.697698,
+          40.417167
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1244"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Teatro de la Zarzuela es el teatro principal de Madrid dedicado a la zarzuela, un género de música teatral típicamente español. Ofrece una programación variada de zarzuela, ópera y conciertos."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:086",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Teatro Español"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.703672,
+          40.414524
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "800"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Teatro Español es uno de los teatros más antiguos de Madrid y un importante centro cultural de la ciudad. Ofrece una amplia variedad de obras de teatro y otros eventos culturales."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:090",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Palacio del Infante Don Luis"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.871778,
+          40.405146
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Un edificio histórico con hermosos jardines."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:101",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza de España"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.712238,
+          40.423782
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza de España es una de las plazas más grandes y conocidas de Madrid. Es un punto de referencia importante, con monumentos como la estatua de Cervantes y los edificios Torre de Madrid y Edificio España."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:102",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de El Capricho"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.607167,
+          40.463455
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de El Capricho es un jardín histórico situado en el barrio de Alameda de Osuna. Es uno de los parques más bellos de Madrid, con una gran variedad de árboles, flores y estructuras arquitectónicas."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:103",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Centro de Arte Dos de Mayo"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.799487,
+          40.338603
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "2€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "150"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Centro de Arte Dos de Mayo (CA2M) es un museo de arte contemporáneo ubicado en Móstoles, en la Comunidad de Madrid. Ofrece una variada programación de exposiciones, talleres y actividades culturales."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:104",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Estadio de Vallecas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.658507,
+          40.39189
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "Variable"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "15000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Estadio de Vallecas es el hogar del Rayo Vallecano, un club de fútbol de la primera división española. Es conocido por su ambiente único y apasionado."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:105",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque Juan Carlos I"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.598242,
+          40.459478
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque Juan Carlos I es uno de los parques más grandes de Madrid. Ofrece una amplia variedad de actividades recreativas, incluyendo alquiler de bicicletas, paseos en bote y áreas de juego para niños."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:106",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Puente de Segovia"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.721735,
+          40.415774
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Puente de Segovia es el puente más antiguo de Madrid, construido en el siglo XVI. Ofrece vistas impresionantes del río Manzanares y la ciudad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:107",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque Enrique Tierno Galván"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.679483,
+          40.38819
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque Enrique Tierno Galván es un gran parque urbano en Madrid, conocido por su planetario y por albergar numerosos eventos y conciertos al aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:108",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque Quinta de los Molinos"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.63026,
+          40.445301
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque Quinta de los Molinos es un hermoso parque que destaca por sus almendros en flor en primavera. Es un lugar ideal para pasear y disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:109",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza de la Paja"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.712377,
+          40.413792
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza de la Paja es una pintoresca plaza en el barrio de La Latina, conocida por su ambiente tranquilo y sus bares y restaurantes con terrazas."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:110",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Monumento a Alfonso XII"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.684504,
+          40.41554
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Monumento a Alfonso XII es una majestuosa estructura situada en el Parque del Retiro, con una gran columnata y una estatua ecuestre del rey. Es un lugar popular para relajarse y disfrutar del paisaje."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:111",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza del Dos de Mayo"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.703579,
+          40.428486
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza del Dos de Mayo es una plaza histórica en el barrio de Malasaña, conocida por su animado ambiente y sus numerosos bares y restaurantes."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:112",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de la Vaguada"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.703477,
+          40.478618
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de la Vaguada es un espacio verde en el barrio de La Vaguada, con áreas de juego, pistas deportivas y un estanque. Es un lugar popular para familias y residentes locales."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:113",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza de la Villa"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.712297,
+          40.415558
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza de la Villa es una de las plazas más antiguas de Madrid, rodeada de edificios históricos como la Casa de la Villa, la Casa de Cisneros y la Torre de los Lujanes."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:114",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Berlín"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.674305,
+          40.450933
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de Berlín es un parque urbano en el barrio de Chamartín, conocido por su monumento al Muro de Berlín y su ambiente tranquilo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:115",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de las Avenidas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.654325,
+          40.437496
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de las Avenidas es un espacio verde en el barrio de Guindalera, ideal para pasear, hacer deporte y disfrutar del aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:117",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de la Fuente del Berro"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.662531,
+          40.426328
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de la Fuente del Berro es un parque histórico en el barrio de Salamanca, conocido por su belleza paisajística y sus fuentes ornamentales."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:118",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque del Oeste"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.722717,
+          40.432092
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque del Oeste es uno de los parques más grandes de Madrid, conocido por sus jardines, sus senderos y el Templo de Debod."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:119",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque Lineal del Manzanares"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.70533,
+          40.36922
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "800"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque Lineal del Manzanares es un gran espacio verde que sigue el curso del río Manzanares, ideal para caminar, correr y disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:120",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de las Siete Tetas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.661437,
+          40.391344
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de las Siete Tetas, también conocido como el Cerro del Tío Pío, ofrece una de las mejores vistas panorámicas de Madrid desde sus colinas."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:121",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza de Colón"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.688545,
+          40.425478
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza de Colón es una gran plaza en el centro de Madrid, conocida por sus monumentos a Cristóbal Colón y su centro cultural, el Centro Cultural de la Villa."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:122",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza de Callao"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.705563,
+          40.419056
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza de Callao es un importante punto de encuentro en el centro de Madrid, conocida por sus cines históricos, teatros y su animada vida nocturna."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:123",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Plaza de Oriente"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.711507,
+          40.418557
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "La Plaza de Oriente es una hermosa plaza situada junto al Palacio Real, conocida por sus jardines y estatuas de reyes españoles."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:125",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque Lineal de Palomeras"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.647195,
+          40.384307
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque Lineal de Palomeras es un espacio verde en el barrio de Puente de Vallecas, ideal para pasear, correr y disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:126",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque del Casino de la Reina"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.704481,
+          40.406672
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque del Casino de la Reina es un parque urbano en el barrio de Lavapiés, conocido por su ambiente multicultural y sus áreas de juego."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:127",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Breogán"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.667576,
+          40.436015
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de Breogán es un espacio verde en el barrio de Chamartín, ideal para pasear, hacer deporte y disfrutar de actividades al aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:128",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de la Cuña Verde de Latina"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.764741,
+          40.388364
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "800"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de la Cuña Verde de Latina es un gran espacio verde en el barrio de Latina, ideal para caminar, correr y disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:129",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de la Peseta"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.758291,
+          40.374814
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de la Peseta es un espacio verde en el barrio de Carabanchel, conocido por su ambiente tranquilo y sus áreas de recreo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:130",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Aluche"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.753082,
+          40.389302
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de Aluche es un gran espacio verde en el barrio de Aluche, con áreas de juego, pistas deportivas y un ambiente familiar."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:131",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de la Bombilla"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.721177,
+          40.431017
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de la Bombilla es un espacio verde en el barrio de Argüelles, conocido por su cine de verano y su ambiente relajado."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:132",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de San Isidro"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.735487,
+          40.394548
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de San Isidro es un espacio verde en el barrio de Carabanchel, conocido por albergar la famosa festividad de San Isidro, patrón de Madrid."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:133",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque Forestal de Valdebebas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.634507,
+          40.492572
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque Forestal de Valdebebas es uno de los mayores parques de Madrid, con una gran variedad de flora y fauna, ideal para actividades al aire libre y disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:134",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Eva Duarte"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.675552,
+          40.42962
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de Eva Duarte, también conocido como Parque de Eva Perón, es un pequeño pero encantador espacio verde en el barrio de Salamanca, ideal para pasear y relajarse."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:135",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de las Cataratas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.765337,
+          40.386759
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de las Cataratas es un espacio verde en el barrio de Latina, conocido por su fuente y cascada artificial, ideal para relajarse y disfrutar del entorno."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:137",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de San Blas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.611265,
+          40.43572
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de San Blas es un espacio verde en el barrio de San Blas, ideal para pasear, hacer deporte y disfrutar del aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:138",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Canillejas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.60771,
+          40.447759
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de Canillejas es un espacio verde en el barrio de Canillejas, conocido por sus áreas de juego y su ambiente familiar."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:139",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque del Lago"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.729774,
+          40.406593
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque del Lago es un espacio verde en el barrio de Latina, conocido por su lago artificial y sus áreas de recreo, ideal para disfrutar de un día al aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:140",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Entrevías"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.667234,
+          40.377543
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de Entrevías es un espacio verde en el barrio de Puente de Vallecas, conocido por sus áreas deportivas y su ambiente tranquilo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:141",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de la Dehesa de la Villa"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.724123,
+          40.457923
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "600"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de la Dehesa de la Villa es un gran espacio verde en el barrio de Moncloa-Aravaca, ideal para caminar, correr y disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:151",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Valdebernardo"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.608258,
+          40.397381
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de Valdebernardo es un espacio verde en el barrio de Vicálvaro, ideal para pasear, hacer deporte y disfrutar de actividades al aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:153",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de la Cuña Verde de O'Donnell"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.653496,
+          40.407482
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de la Cuña Verde de O'Donnell es un gran espacio verde en el barrio de Moratalaz, ideal para actividades recreativas y disfrutar del aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:154",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque del Cerro Almodóvar"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.60189,
+          40.391268
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque del Cerro Almodóvar es un espacio verde en el barrio de Vicálvaro, conocido por sus senderos y sus vistas panorámicas de la ciudad."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:156",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de las Cruces"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.759203,
+          40.376569
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de las Cruces es un gran espacio verde en el barrio de Carabanchel, ideal para actividades recreativas y disfrutar del aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:157",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de la Cuña Verde de Vicálvaro"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.61221,
+          40.392556
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de la Cuña Verde de Vicálvaro es un gran espacio verde en el barrio de Vicálvaro, ideal para pasear, hacer deporte y disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:158",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de los Pinos"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.665147,
+          40.473543
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de los Pinos es un espacio verde en el barrio de Fuencarral, conocido por sus áreas de juego y su ambiente tranquilo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:159",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque del Paraíso"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.624898,
+          40.432917
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque del Paraíso es un gran espacio verde en el barrio de San Blas, ideal para actividades recreativas y disfrutar del aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:160",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque Regional del Curso Medio del Río Guadarrama"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.903591,
+          40.470407
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Un área natural protegida ideal para senderismo y actividades al aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:161",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque del Manzanares"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.706567,
+          40.377934
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "800"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque del Manzanares es un gran espacio verde que sigue el curso del río Manzanares, ideal para caminar, correr y disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:162",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de las Avenidas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.654325,
+          40.437496
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de las Avenidas es un espacio verde en el barrio de Guindalera, ideal para pasear, hacer deporte y disfrutar del aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:163",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque Forestal Adolfo Suárez"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.817312,
+          40.450405
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Un amplio parque con zonas verdes y senderos."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:164",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Ciudad de la Imagen"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.800924,
+          40.441317
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Una zona con cines"
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:165",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Las Presillas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.833965,
+          40.350322
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "200"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Un parque con zonas recreativas y espacios verdes."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:167",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Centro Comercial TresAguas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.831529,
+          40.346626
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Un gran centro comercial con numerosas tiendas"
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:168",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Castillo de Villaviciosa de Odón"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.90014,
+          40.359097
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "100"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Un castillo histórico con visitas guiadas."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:169",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque El Forestal"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.903091,
+          40.359732
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Un parque natural para paseos y actividades al aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:170",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Montepríncipe"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.84454,
+          40.37526
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Con una combinación de residencias"
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:171",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Urbanizaciones Noroeste y Viñas Viejas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.85454,
+          40.38526
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Áreas residenciales con amplias zonas verdes y servicios comunitarios."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:172",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Carretera de San Martín"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.861295,
+          40.371987
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Importante vía de comunicación que conecta estos municipios con el centro de Madrid."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:174",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Autovía del Suroeste"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 5
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.857264,
+          40.36878
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "500"
+    },
+    "description": {
+      "type": "Property",
+      "value": "Importante vía de comunicación que conecta estos municipios con el centro de Madrid y otras áreas metropolitanas."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:185",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de las Avenidas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.654325,
+          40.437496
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de las Avenidas es un espacio verde en el barrio de Guindalera, ideal para pasear, hacer deporte y disfrutar del aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:192",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de la Quinta de los Molinos"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.63026,
+          40.445301
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque Quinta de los Molinos es un hermoso parque que destaca por sus almendros en flor en primavera. Es un lugar ideal para pasear y disfrutar de la naturaleza."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:193",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de El Capricho"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.607167,
+          40.463455
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de El Capricho es un jardín histórico situado en el barrio de Alameda de Osuna. Es uno de los parques más bellos de Madrid, con una gran variedad de árboles, flores y estructuras arquitectónicas."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:196",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de Berlín"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.674305,
+          40.450933
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "400"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de Berlín es un parque urbano en el barrio de Chamartín, conocido por su monumento al Muro de Berlín y su ambiente tranquilo."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:197",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque de las Avenidas"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.654325,
+          40.437496
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "300"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque de las Avenidas es un espacio verde en el barrio de Guindalera, ideal para pasear, hacer deporte y disfrutar del aire libre."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:198",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque del Oeste"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 3
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.722717,
+          40.432092
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "1000"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque del Oeste es uno de los parques más grandes de Madrid, conocido por sus jardines, sus senderos y el Templo de Debod."
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PoI:199",
+    "type": "PoI",
+    "title": {
+      "type": "Property",
+      "value": "Parque Lineal del Manzanares"
+    },
+    "relevance": {
+      "type": "Property",
+      "value": 4
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -3.70533,
+          40.36922
+        ]
+      }
+    },
+    "price": {
+      "type": "Property",
+      "value": "0€"
+    },
+    "occupancy": {
+      "type": "Property",
+      "value": "800"
+    },
+    "description": {
+      "type": "Property",
+      "value": "El Parque Lineal del Manzanares es un gran espacio verde que sigue el curso del río Manzanares, ideal para caminar, correr y disfrutar de la naturaleza."
+    }
+  }
+]
