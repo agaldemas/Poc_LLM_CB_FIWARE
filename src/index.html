@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>POC Madrid LLM</title>
@@ -8,40 +9,44 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<h1>PoC Madrid FIWARE + LLM</h1>
+  <h1>PoC Madrid FIWARE + LLM</h1>
 
-<div class="container">
-  <!-- HTML element to hold the map -->
-  <div id="map"></div>
+  <div class="container">
+    <!-- HTML element to hold the map -->
+    <div id="map"></div>
 
-  <div class="chatBot">
-    <header>
-      <h2>FIWARE Chatbot</h2>
-    </header>
-    <ul class="chatbox">
-      <li class="chat-incoming chat">
-        <p>Hey! How can I assist you today?</p>
-      </li>
-    </ul>
-    <div class="chat-input">
-      <textarea rows="0" cols="50" placeholder="Enter a message..."></textarea>
-      <button id="sendBTN">Send</button>
+    <div class="chatBot">
+      <header>
+        <h2>FIWARE Chatbot</h2>
+      </header>
+      <ul class="chatbox">
+        <li class="chat-incoming chat">
+          <p>Hey! How can I assist you today?</p>
+        </li>
+      </ul>
+      <div class="chat-input">
+        <textarea rows="0" cols="50" placeholder="Enter a message..."></textarea>
+        <button id="sendBTN">Send</button>
+      </div>
     </div>
   </div>
-</div>
-<script type="module">
-  import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
-  Chatbot.init({
-      chatflowid: "<your chatflowid>",
+  <script type="module">
+    import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+    Chatbot.init({
+      chatflowid: "5618a043-52c0-49c2-8bd0-80ff8c959476",
       apiHost: "http://localhost:3000",
-  })
-</script>
+    })
+  </script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js" integrity="sha512-LhccdVNGe2QMEfI3x4DVV3ckMRe36TfydKss6mJpdHjNFiV07dFpS2xzeZedptKZrwxfICJpez09iNioiSZ3hA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-<script src="js/map.js"></script>
-<script src="js/bundle_chatbot.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"
+    integrity="sha512-LhccdVNGe2QMEfI3x4DVV3ckMRe36TfydKss6mJpdHjNFiV07dFpS2xzeZedptKZrwxfICJpez09iNioiSZ3hA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/bundle_chatbot.js"></script>
 </body>
+
 </html>
